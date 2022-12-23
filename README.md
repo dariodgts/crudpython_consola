@@ -1,7 +1,7 @@
 # crudpython_consola
 MATENIMIENTO TIPO "CRUD" EN CON CONSOLA:
 
-Crea una aplicación de consola que pida en pantalla los datos de un cliente (codigo,nombre y año de nacimiento).
+Crea una aplicación de consola en lenguaje de programacion  python, que pida en pantalla los datos de un cliente (codigo,nombre y año de nacimiento).
 
 La aplicación muestra un menú con las siguientes opciones:
 
